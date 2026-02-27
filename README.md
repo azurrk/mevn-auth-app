@@ -87,7 +87,7 @@ Full-stack authentication solution featuring modern security standards including
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/azurrk/mevn-auth-app.git
    cd auth-v1
    ```
 
